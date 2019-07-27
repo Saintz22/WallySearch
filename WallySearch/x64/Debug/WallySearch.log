@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Matrix.cpp
+C:\Users\Nick\Desktop\WallySearch\WallySearch\Matrix.cpp(28,13): warning C4244:  'initializing': conversion from 'double' to 'int', possible loss of data
+  WallySmall.cpp
+  WallyLarge.cpp
+  Main.cpp
+  Generating Code...
+C:\Users\Nick\Desktop\WallySearch\WallySearch\Matrix.cpp(41,9): warning C4101:  'j': unreferenced local variable
+  WallySearch.vcxproj -> C:\Users\Nick\Desktop\WallySearch\x64\Debug\WallySearch.exe
