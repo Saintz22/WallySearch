@@ -1,1 +1,0 @@
-Simple wally c++ program, used for identifying wally in a crowded scene with source image and test image provided. 
